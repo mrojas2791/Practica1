@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practica1</string>
+    <string name="button">Button</string>
+    <string name="editar_mensaje">Ingresar un mensaje</string>
+    <string name="boton_enviar">Enviar</string>
+    <string name="textview">TextView</string>
+</resources>
